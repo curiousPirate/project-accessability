@@ -62,7 +62,6 @@ p {
     background-position: center;
 }
 
-
 /* Content CSS Properties */
 /* Combined classes to decrease the code */
 
@@ -81,6 +80,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Main content CSS Properties */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
