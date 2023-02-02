@@ -12,6 +12,9 @@ The following webpage has been modified to meet the accessibility criteria's tha
 
 https://curioushumans.github.io/project-accessability/
 
+## Screenshots
+
+![Website screenshot](./assets/images/Screenshot.png)
 
 
 ## Credits
